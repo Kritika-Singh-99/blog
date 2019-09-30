@@ -1,0 +1,16 @@
+i.icon {
+    font-size: 2em;
+}
+
+.blog {
+    margin-top: 100px;
+}
+
+#dogsimage {
+    width: 120px;
+    height: auto;
+}
+
+#button {
+    display: inline;
+}
